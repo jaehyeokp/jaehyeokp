@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jaehyeok.
+
+IT student at Macquarie University in Sydney, finishing in December 2026.
+Java is what I'm most comfortable with, and I'm working towards cloud and
+DevOps roles. 
+
+Most recent project was a multiplayer Java game server, built with a team of
+five. My part was the per-session player state and the /move endpoint, and I
+worked with a pull-request and code-review workflow on GitHub.
+https://github.com/jaehyeokp/-comp3050-team-server-week2
+
+Still learning: AWS, Docker, CI/CD, Linux, SQL.
+
+Reach me at jaehyeok.park@outlook.com
 
 <!--
 **jaehyeokp/jaehyeokp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
