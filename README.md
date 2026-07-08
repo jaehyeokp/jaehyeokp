@@ -11,7 +11,6 @@ https://github.com/jaehyeokp/-comp3050-team-server-week2
 
 Still learning: AWS, Docker, CI/CD, Linux, SQL.
 
-Reach me at jaehyeok.park@outlook.com
 
 <!--
 **jaehyeokp/jaehyeokp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
