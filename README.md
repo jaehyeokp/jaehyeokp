@@ -1,6 +1,7 @@
-## Hi, I'm Jaehyeok.
+## Hey, there🖐️
 
-IT student at Macquarie University in Sydney, finishing in December 2026.
+I'm Jaehyeok, an IT student at Macquarie University in Sydney, finishing in December 2026.
+
 Java is what I'm most comfortable with, and I'm working towards cloud and
 DevOps roles. 
 
