@@ -8,7 +8,7 @@ DevOps roles.
 Most recent project was a multiplayer Java game server, built with a team of
 five. My part was the per-session player state and the /move endpoint, and I
 worked with a pull-request and code-review workflow on GitHub.
-[https://github.com/jaehyeokp/-comp3050-team-server-week2](https://github.com/jaehyeokp/comp3050-multiplayer-game-server)
+[https://github.com/jaehyeokp/comp3050-multiplayer-game-server](https://github.com/jaehyeokp/comp3050-multiplayer-game-server)
 
 Still learning: AWS, Docker, CI/CD, Linux, SQL.
 
